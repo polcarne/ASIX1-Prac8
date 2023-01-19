@@ -1,0 +1,135 @@
+.general{
+    margin-left: 20px;
+    margin-top: 15px;
+    display: flex;
+    font-family: Arial;
+    font-size: small;
+
+}
+.tienda{
+    margin-left: 20px;
+
+}
+.mail{
+    margin-left: 1050px;
+}
+.img{
+    margin-left: 20px;
+}
+.foto{
+    margin-left:    5px;
+    margin-top: -14px;
+}
+.boton{
+    margin-left: 5px;
+    margin-top: -7px;
+}
+.but{
+    background-color: rgb(0, 123, 255);
+    width: 120px;
+    color: white;
+    height: 35px;
+    border-color: rgb(0, 106, 255);
+    border-radius: 4px;
+}
+.google{
+    text-align: center;
+    margin-top: -30px;
+}
+.google1{
+    margin-top: 110px;
+}
+.busqueda{
+    margin-left: 480px;
+    border-radius: 50px;
+    border: 2px solid rgb(176, 173, 173);
+    margin-top: 8px;
+    width: 550px;
+    height: 40px;
+}
+.lupa{
+    margin-top: -48px;
+    margin-left: -500px;
+}
+.miccam{
+    margin-top: -35px;
+    margin-left: 453px;
+}
+.boton2{
+    margin-left: -180px;
+    margin-top: 30px;
+}
+.but2{
+    width: 150px;
+    height: 35px;
+    border: 1px;
+}
+.boton3{
+    margin-left: 150px;
+    margin-top: -35px;
+}
+.but3{
+    width: 150px;
+    height: 35px;
+    border: 1px;
+}
+.ofrecido{
+    color: rgb(141, 138, 138);
+    margin-top: 30px;
+    font-family: Arial;
+    font-size: small;
+}
+.peu{
+    background-color: rgb(223, 222, 222);
+    color:rgb(116, 113, 113);
+    margin-top: 220px;
+    margin-left: -10px;
+    margin-right: -7px;
+    height: 40px;
+    font-size: small;
+    font-family: Arial;
+
+    
+}
+.p1{
+    margin-left: 30px;
+    
+    
+}
+
+.peu2{
+    background-color: rgb(223, 222, 222);
+    color:rgb(116, 113, 113);
+    margin-right: -7px;
+    margin-left: -10px;
+    display: flex;
+    height: 47px;
+    font-size: small;
+    font-family: Arial;
+    margin-bottom: 0%;
+
+}
+.p2{
+    margin-left: 30px;
+}
+.empresa{
+    margin-left: 10px;
+}
+.cf{
+    margin-left: 10px;
+}
+.carbono{
+    margin-left: 330px;
+}
+.privacidad{
+    margin-left: 370px;
+}
+.terminos{
+    margin-left: 20px;
+}
+.conf{
+    margin-left: 20px;
+}
+.carbono{
+    background-color: rgb(223, 222, 222);
+}
